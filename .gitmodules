@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/sajanstha201/resume_screening.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/sajanstha201/resume_screening_react.git
